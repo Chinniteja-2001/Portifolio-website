@@ -1,0 +1,44 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "./img/product-chain-1.png",
+      "title": "Front-End",
+      "description": "Demonstrated expertise in frontend technologies like React.js, HTML, CSS, and JavaScript, complemented by practical experience in designing responsive user interfaces"
+    },
+    {
+      "id": "2",
+      "src": "./img/tag-1.png",
+      "title": "Back-End",
+      "description": "hands-on experience in building robust applications using Java, Spring Boot, and Hibernate. Proficient in developing RESTful APIs and implementing secure user authentication with Spring Security"
+    }
+    
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "./img/food.jpg",
+      "title": "Food Ordering Website",
+      "description": "This platform connects restaurant owners with food enthusiasts, enabling easy meal ordering. Key features include multi-vendor support, tailored admin panels, secure role-based access, and Stripe integration for payment processing. The frontend is designed for a user-friendly experience, with responsive design and dynamic content updates.",
+      "link": "https://github.com/Chinniteja-2001/Food-Order-Website-Full-Stack-Application-/tree/main"
+    },
+    {
+      "id": "2",
+      "src": "./img/hotel.jpg",
+      "title": "StayFinder-Hotel Booking Website",
+      "description": "Developed a comprehensive hotel booking system that provides users with a seamless interface to search, view, and book hotels. The application features a modular backend with RESTful APIs and a responsive frontend that dynamically displays real-time data on room availability and bookings",
+      "link": "https://github.com/Chinniteja-2001/StayFinder-Full-Stack-Hotel-Booking-Application/tree/main"
+    }
+    
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "./2024-200-leetcode.png",
+      "description": "Leetcode problem solver in java",
+      "author_name": "leetcode 200 days badge",
+      "author_designation": "https://leetcode.com/u/chinnitejapenta/"
+    }]
+  
+}
